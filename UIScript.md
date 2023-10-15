@@ -3,11 +3,13 @@
 - **Mục tiêu**: Giúp người dùng cân lúa không cần ghi giấy như truyền thống, quá trình tính toán sẽ được tự động, người dùng có thể dể dàng quản lý bản ghi của mình.
 - **Người dùng mục tiêu**: Nông dân và tiểu thương
 
-### 2. Yêu cầu thiết kế:
-- **Phong cách thiết kế**: [Material Design 3 Kit](https://www.figma.com/community/file/1035203688168086460)
-- **Màu sắc**: Xanh Lúa Non (Wheat Green) và Màu Vàng Nông Nghiệp (Farmer's Gold)
-- **Logo & hình ảnh**: ....
-
+### 2. Đặc tả Thiết kế:
+- **Kiểu dáng Thiết kế**: [Bộ Kit Thiết kế Material 3](https://www.figma.com/community/file/1035203688168086460)
+- **Bảng màu chính**:
+  - Xanh Lúa Non (Wheat Green)
+  - Vàng Nông Nghiệp (Farmer's Gold)
+- **Logo và Các Nguyên Liệu Hình Ảnh**: [Đang chờ cung cấp...]
+- **Kết quả mong muốn**: Dự án trên Figma với việc tích hợp sẵn Bộ Kit Thiết kế Material 3.
 ### 3. Mô tả chức năng:
 
 ### Quản Lý Dữ Liệu:
