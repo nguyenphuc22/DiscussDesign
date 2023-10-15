@@ -56,7 +56,7 @@
 ###### User Flow
 
 ```mermaid
-graph LR
+graph TD
   A[Màn hình Home]
   B{Tải dữ liệu thành công?}
   C[Hiển thị Progress Circle]
@@ -1037,3 +1037,9 @@ graph TD
     - Toolbar sẽ hiện thêm 2 thông tin
       - Tổng số bao
       - Tổng khối lượng
+
+### 5. Tham khảo
+
+- Hình 1
+
+![hinh1.jpg](hinh1.jpg)
